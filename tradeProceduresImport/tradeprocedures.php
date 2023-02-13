@@ -1,13 +1,13 @@
 <?php
 
-namespace Citfact\Integration\Import;
+namespace Integration\Import;
 
 use Bitrix\Main\Config\Option;
 use Bitrix\Main\Type\DateTime;
 use Integration\Entity\TradeProceduresTable;
 use Integration\Traits\AgentImport;
 use Integration\Api;
-use SiteCore\Core;
+use Core;
 
 /**
  * Class TradeProcedures
