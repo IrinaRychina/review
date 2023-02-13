@@ -7,7 +7,7 @@ use Bitrix\Main\Type\DateTime;
 use Integration\Entity\ProductTypeTable;
 use Integration\Traits\AgentImport;
 use SiteCore\Core;
-use Cybersteel\Rest\Constants;
+use Rest\Constants;
 
 /**
  * Class ProductType
